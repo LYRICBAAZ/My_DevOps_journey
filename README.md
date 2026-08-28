@@ -367,8 +367,8 @@ The roadmap and learning structure followed in this repository are based on the 
 This repository is more than just notes.
 
 It is a record of my journey from **learning DevOps concepts → practicing them → building projects → documenting the experience**.
-
+❤️If you enjoyed it or found it useful, I’d truly appreciate your ⭐ on this repository and a follow as I continue this 90-day journey.
 > **90 Days. One Goal. No Excuses. 🔥**
 
 ### Learn. Practice. Build. Document. Repeat. 🚀
-very warm and heartfelt thank you for taking the time to read my challenge. ❤️ If you enjoyed it or found it useful, I’d truly appreciate your ⭐ on this repository and a follow as I continue this 90-day journey. Your support means a lot! 🚀
+
