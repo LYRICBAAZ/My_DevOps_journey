@@ -50,8 +50,8 @@ During this journey, I will explore:
 | 08    | Package Management & Software Installation                |
 | 09    | Networking Basics & Text Processing Tools                 |
 | 10    | Shell Scripting & Task Scheduling                         |
-| 11    | Filesystem Hierarchy & Disk Management *(Optional)*       |
-| 12    | Logs & Monitoring *(Optional)*                            |
+| 11    | Filesystem Hierarchy & Disk Management                    |
+| 12    | Logs & Monitoring                                         |
 
 ---
 
