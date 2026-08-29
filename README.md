@@ -370,5 +370,5 @@ It is a record of my journey from **learning DevOps concepts → practicing them
 ❤️If you enjoyed it or found it useful, I’d truly appreciate your ⭐ on this repository and a follow as I continue this 90-day journey.
 > **90 Days. One Goal. No Excuses. 🔥**
 
-### Learn. Practice. Build. Document. Repeat. 🚀
+### Learn. Practice. Build. Document. Repeat. 
 
